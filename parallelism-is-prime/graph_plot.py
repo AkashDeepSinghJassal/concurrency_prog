@@ -13,10 +13,10 @@ def process_csv_file(file_path, impl_name=None):
 
 # Define the list of CSV files and their display names
 csv_files = [
-    {'path': 'prime_results_partition_data_local_counter.csv', 'name': '16 Thread Partition local counter'},
-    {'path': 'prime_results_partition_same_cache_line.csv', 'name': '16 Thread Partition Same Cache Line'},
-    {'path': 'prime_results_shared_counter_no_mutex.csv', 'name': '16 Thread Shared Counter No Mutex'},
-    {'path': 'prime_results_shared_counter_with_mutex.csv', 'name': '16 Thread Shared Counter Mutex'}
+    {'path': 'prime_results_partition_data_local_counter.csv', 'name': 'Partition local counter'},
+    {'path': 'prime_results_partition_same_cache_line.csv', 'name': 'Partition Same Cache Line'},
+    {'path': 'prime_results_shared_counter_no_mutex.csv', 'name': 'Shared Counter No Mutex'},
+    {'path': 'prime_results_shared_counter_with_mutex.csv', 'name': 'Shared Counter Mutex'}
 ]
 
 # Process all CSV files

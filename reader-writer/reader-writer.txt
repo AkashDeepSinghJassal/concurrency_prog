@@ -1,6 +1,0 @@
-Reader read: Hello
-Reader read: Goodbye, World!
-Reader read: Helloye, World!
-Reader read: Goodbye, World!
-Reader read: Goodb
-Reader read: Hello
